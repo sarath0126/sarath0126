@@ -1,8 +1,6 @@
 ### Hi there I'am Sarath Chandra Reddy
 
 [![@sarath0126's Holopin board](https://holopin.io/api/user/board?user=sarath0126)](https://holopin.io/@sarath0126)
-https://www.holopin.io/userbadge/cl9ko7yt8014209ik5d1cut1a
-
 
 <!--
 **sarath0126/sarath0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
